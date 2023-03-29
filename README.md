@@ -29,4 +29,6 @@ python3 -m pip install -r "requirements/dev.txt"
 
 - Direccion de memoria en la ram, se almacenan las variables, (son hexadeciomales), no siempre son los mismos, cada vez que se ejecuta nuestro programa se cambia su direccion de memoria, tambien se les dice referencia
 
-- 
+# Seccion 3 Tipos de datos
+
+- Las variables en python son dinamicas, si definimos una en str (hint), igual se le puede agregar un tipo int
