@@ -23,4 +23,10 @@ Mi repositorio en el cual realizare el curso De Cero a Experto en Python: PySide
 - Para volver a tener nuestras dependencias hacemos un archivo de requeriments (ejemplo requirements/dev.txt) y para volver a ejecutarlo podemos ejecutar "
 python3 -m pip install -r "requirements/dev.txt"
 
--
+# Seccion 2 Variables
+
+- Variables, no hay que especificar el tipo
+
+- Direccion de memoria en la ram, se almacenan las variables, (son hexadeciomales), no siempre son los mismos, cada vez que se ejecuta nuestro programa se cambia su direccion de memoria, tambien se les dice referencia
+
+- 
